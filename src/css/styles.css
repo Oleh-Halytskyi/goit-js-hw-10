@@ -21,12 +21,13 @@ body {
 
 .country-list{
   padding: 0;
+  
 }
 
 .item{
   text-decoration: none;
   display: flex;
-  gap: 15px;
+  gap: 16px;
 }
 .item:not(:last-child){
   margin-bottom: 10px;
